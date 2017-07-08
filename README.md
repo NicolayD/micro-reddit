@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro-Reddit    
 
-Things you may want to cover:
+This is a sample solution for the [Micro-Reddit](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record?ref=lnav) project from the [Ruby on Rails](https://www.theodinproject.com/courses/ruby-on-rails) track at [The Odin Project](https://www.theodinproject.com/home).    
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It is an exercise for the Rails models, so it won't focus on any views, just the models.
