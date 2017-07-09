@@ -1,5 +1,5 @@
 class Post < ApplicationRecord
-  belongs_to :username
+  belongs_to :user
   validates :title, presence: true, length: { minimum: 6, maximum: 40 }
-  validates :username, presence: true
+  validates :user, presence: true
 end
